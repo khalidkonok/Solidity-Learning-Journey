@@ -1,2 +1,10 @@
 # Solidity-Learning-Journey
-Documenting my growth in Solidity with real smart contract projects, code explanations, and deployment results.
+📁 solidity-learning-journey
+ ├── README.md               
+ ├── 01-hello-world/
+ │    ├── HelloWorld.sol
+ │    ├── README.md          
+ ├── 02-state-variables/
+ │    ├── Contract.sol
+ │    ├── README.md
+
